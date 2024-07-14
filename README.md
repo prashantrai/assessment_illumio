@@ -31,7 +31,7 @@ Considering modern machine's memory are usually big enough to easily store this 
 
 ## Prerequisite
 
-Please make sure that JDK12 or above is install and class path is set to execute/run the `javac` and `java` command.
+Please make sure that `JDK12` or above is install and class path is set to execute/run the `javac` and `java` command.
 
  
 ## How to run the program? 
@@ -51,14 +51,14 @@ java <path>/WordMatchCounter.java <path to predefined_words.txt> <path to input_
 
 
 ## What has been tested
-Solution has been tested against the files available in folder `/file`.
+Solution has been tested against the files available in folder `/files`.
 
 **Use Case 1:** `input_file.txt` with `15` different sentences and `20` different `predefined_words.txt`.  
 
-**Use Case 2:** `input_file_english.txt` with `~23400 (1MB)` different sentences and `10K` different predefined_words_english.txt.  
+**Use Case 2:** `input_file_english.txt` with `~23400 (1MB)` different sentences and `10K` different `predefined_words_english.txt`.  
 
 
-##Files
+## Files
 ```bash
 .
 ├── README.md
